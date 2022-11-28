@@ -1,0 +1,26 @@
+{
+  "holderName": "Emily Hatt",
+  "id": 9873689,
+  "birthYear": 1997,
+  "active": true,
+  "books": [
+    {
+      "bookName": "Invisible Women",
+      "author": "Caroline Criado Pereze",
+      "rating": 4.5,
+      "topic": ["Society", "History", "Feminism"]
+    },
+    {
+      "bookName": "Maybe You Should Talk to Someone",
+      "author": "Lori Gottlieb",
+      "rating": 4.4,
+      "topic": ["Psychology", "Relationship"]
+    },
+    {
+      "bookName": "The Queen",
+      "author": "Andrew Morton",
+      "rating": 3.3,
+      "topic": ["Biography", "History"]
+    }
+  ]
+}
